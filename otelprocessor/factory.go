@@ -3,7 +3,7 @@ package otelprocessor
 import (
 	"context"
 
-	"github.com/cockroachdb/redact/otelprocessor/metadata"
+	"github.com/thecomputerm/redact/otelprocessor/metadata"
 	"go.opentelemetry.io/collector/component"
 	"go.opentelemetry.io/collector/consumer"
 	"go.opentelemetry.io/collector/processor"

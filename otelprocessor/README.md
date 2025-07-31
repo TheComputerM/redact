@@ -13,7 +13,7 @@ Follow the [guide to build a custom OpenTelemetry collector](https://opentelemet
 # ...
 processors:
   - gomod:
-      github.com/cockroachdb/redact/otelprocessor master
+      github.com/thecomputerm/redact/otelprocessor test-otel
 # ...
 ```
 

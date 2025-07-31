@@ -1,4 +1,4 @@
-module github.com/cockroachdb/redact/otelprocessor
+module github.com/thecomputerm/redact/otelprocessor
 
 go 1.23.11
 
